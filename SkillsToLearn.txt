@@ -1,0 +1,5 @@
+Skills/Topics I want to learn in the next semester:
+1. Basic Machine Learning algorithms and techniques.
+2. Exploratory Data Analysis (EDA) for data science projects.
+3. Deployment of machine learning models using cloud platforms
+   like AWS or Google Cloud.
